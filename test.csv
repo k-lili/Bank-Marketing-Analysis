@@ -1,0 +1,5 @@
+﻿age,balance,job,marital,housing,contact,campaign,pdays,last_contact,poutcome
+45,8000,blue-collar,married,yes,cellular,12,300,45,success
+65,700,retired,divorced,yes,telephone,2,1,1,success
+80,100,unknown,unknown,no,telephone,1,1,200,unknown
+21,300,students,single,no,cellular,3,90,180,success
